@@ -106,5 +106,5 @@ print(layers_list)
 country_layer = QgsProject.instance().mapLayersByName("countries")[0]
 
 # ARVORES DE NOS DE CAMADAS E GRUPPOS
-
 root = QgsProject.instance().layerTreeRoot()
+
